@@ -1,0 +1,6 @@
+export { SplashScreen } from './SplashScreen'
+export { Home } from './Home'
+export { RoomService } from './RoomService'
+export { Facilities } from './Facilities'
+export { Housekeeping } from './Housekeeping'
+export { Support } from './Support'
