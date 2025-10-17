@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ArrowLeft } from 'lucide-react';
 
-export function Housekeeping() {
+export function ExtraTowels() {
   const [selectedCategory, setSelectedCategory] = useState('All');
 
   const categories = ['All', 'Cleaning', 'Laundry', 'Turndown'];
